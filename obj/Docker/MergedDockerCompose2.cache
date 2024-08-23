@@ -1,0 +1,16 @@
+name: dockercompose6473449842620080854
+services:
+  dashgo-api:
+    build:
+      context: C:\git\api\dashgo-api\dashgo-api
+      dockerfile: dashgo-api/Dockerfile
+    image: dashgoapi
+    networks:
+      default: null
+  db:
+    image: dashgo-api-db
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose6473449842620080854_default

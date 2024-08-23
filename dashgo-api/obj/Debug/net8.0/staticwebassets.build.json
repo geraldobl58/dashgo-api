@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BAruyQ8jhr8dMSlWHpueAgQmPSuV0a6pIF3h85R0aOg=",
+  "Source": "dashgo-api",
+  "BasePath": "_content/dashgo-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
